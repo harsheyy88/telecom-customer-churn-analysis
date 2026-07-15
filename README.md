@@ -106,7 +106,7 @@ The final dashboard includes:
   Method, and overall Churn Distribution
 - **Dynamic slicers:** Contract, Internet Service, Senior Citizen — filters the entire dashboard live
 
-
+![Dashboard Preview](powerbi/dashboard_preview.png)
 
 ---
 
