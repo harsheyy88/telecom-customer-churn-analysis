@@ -113,7 +113,7 @@ The final dashboard includes:
 ## 📁 Repository Structure
 
 ```
-telecom-churn-analysis/
+telecom-customer-churn-analysis/
 │
 ├── data/
 │   └── cleaned/telecom_churn_cleaned.csv
@@ -122,14 +122,15 @@ telecom-churn-analysis/
 │   └── business_queries.sql
 │
 ├── notebooks/
-│   └── churn_eda_analysis.ipynb
+│   └── Customer_churn_prediction.ipynb
 │
 ├── powerbi/
-│   ├── churn_dashboard.pbix
 │   └── dashboard_preview.png
 │
 ├── README.md
-└── .gitignore
+├── .gitignore
+└── LICENSE
+
 ```
 
 > Note: The Excel validation file is not included in this repository, as its purpose was
