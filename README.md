@@ -152,7 +152,10 @@ telecom-churn-analysis/
 - Automate the SQL → Python → Power BI refresh pipeline
 
 ---
+## 🧑‍💻 Author
 
+**Harshita Gupta**
+Connect: [www.linkedin.com/in/harshita-gupta17]
 
 ---
 **Tools Used:** Excel • MySQL • Python (Pandas, Seaborn, Matplotlib, SciPy, Scikit-learn) • Power BI
